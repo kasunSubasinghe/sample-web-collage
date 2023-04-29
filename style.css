@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.firstOuter{
+    width: 50%;
+    height: 215px;
+    display: flex;
+   
+}
+.div1{
+    flex: 1;
+}
+#div1_1{
+    background-image: url(file:///C:/Users/subas/Downloads/337979369_1262607511035152_37155791427732626_n.jpg);
+    background-size: cover;
+    
+}
+#div1_2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hvCE7a9lKmJivWdzZXaJyaKDyrIfs5huGA&usqp=CAU);
+    background-size: cover;
+}
+#div1_3{
+    background-image: url(https://i0.wp.com/captions.tellygupshup.com/wp-content/uploads/2023/02/Beautiful-Jhumka-Captions-And-Quotes-For-Instagram-In-2023.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.secondOuter{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    top: 215px;
+}
+.div2{
+    flex: 1;
+}
+#div2_1{
+   background-image: url(file:///K:/git%20hub/project1/image/pic2.jpg);
+   background-size: cover;
+}
+#div2_2{
+    background-image: url(file:///K:/git%20hub/project1/image/pic3.jpg);
+    background-size: cover;
+}
+#div2_3{
+    background-image: url(file:///K:/git%20hub/project1/image/pic4.jpg);
+    background-size: cover;
+}
+.thirdOuter{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    top: 415px;
+}
+.div3{
+    flex: 1;
+}
+#div3_1{
+    background-image: url(https://i.pinimg.com/736x/e2/d6/41/e2d641fa3940505eeb13edbaa74f0598.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#div3_2{
+    background-image: url(file:///C:/Users/subas/Downloads/337647686_610555420935989_204419764050273472_n.jpg);
+    background-size: cover;
+}
+#div3_3{
+    background-image: url(https://cdn.quotesgram.com/small/76/49/1429981599-711d104ba3c8b776bc0604000dee9e28.jpg);
+    background-size: cover;
+    background-position: center;
+}
